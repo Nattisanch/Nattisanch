@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nattisanch
+- 👋 Hi, I’m Natalie!
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Computer science 
   
