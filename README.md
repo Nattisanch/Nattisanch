@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Natalie!
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Computer science 
+- 👀 I’m interested in Cybersecurity.
+- 🌱 I’m currently a Business data analyst intern.
+- 😊 I plan to travel to the Uk I would love to live there!
   
 
 <!---
