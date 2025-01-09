@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Natalie!
 - 👀 I’m interested in Computer Science!
-- 🌱 I’m currently a Business data analyst intern and I have been for 1 year!.
+- 🌱 I’m currently a Data analyst Intern!.
   
 
 <!---
