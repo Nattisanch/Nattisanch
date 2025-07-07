@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Natalie!
-- 👀 I’m interested in Computer Science!
 - 🌱 I have experience in Data analytics
 - 🙂 I am open to learning new things!
 - 😋 I have experience with Python, Html, Javascript etc
