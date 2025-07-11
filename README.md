@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Natalie!
 - 🌱 I have experience in Data analytics
 - 🙂 I am open to learning new things!
-- 😋 I have experience with Python, Html, Javascript etc
+- 😋 I have experience with Python, Html,CSS, Javascript etc
   
 
 <!---
