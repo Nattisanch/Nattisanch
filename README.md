@@ -4,11 +4,13 @@ I love to design and build whatever my mind can imagine! 💡✨
 
 If an idea pops into my head, I’ll most likely try to bring it to life! 🛠️
 
-💻 Tech & Tools I use:
+Tech & Tools I use:
 Python 🐍 | HTML 🌐 | CSS 🎨 | JavaScript ⚡ | React ⚛️ | SQL 🧮 | Power BI 📊 | Tableau 📈 | Excel 📘 | Figma 🖌️
+
+
 Currently learning C++ C# 💻 and Blender 🎥
 
-🐾 Fun Facts about me:
+Fun Facts about me:
 🐱 I have 3 cats
 👧 I’m a middle child
 🏋️‍♀️ My hobbies: Building things 🏗️, solving problems 🧩, home gym 💪, drawing ✏️, and gaming 🎮
