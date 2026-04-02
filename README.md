@@ -1,21 +1,34 @@
-👋 Hello there!
-I'm Natalie, a Data Analyst Apprentice currently.
-I love to design and build whatever my mind can imagine! 💡✨
+# 👋 Hi, I'm Natalie
 
-If an idea pops into my head, I’ll most likely try to bring it to life! 🛠️
+I'm a data analyst with a growing focus on cybersecurity analytics. I enjoy working with data to identify patterns, detect anomalies, and understand security related events.
 
-Tech & Tools I use:
-Python 🐍 | HTML 🌐 | CSS 🎨 | JavaScript ⚡ | React ⚛️ | SQL 🧮 | Power BI 📊 | Tableau 📈 | Excel 📘 | Figma 🖌️
+## 🔐 What I’m Working On
 
+* Analyzing security logs and network data
+* Learning cybersecurity fundamentals and tools
+* Building hands on labs and projects
+* Gaining credentials needed during data analytics apprentice via Coursera & potentially Comptia
 
-Currently learning C++ C# 💻 and Blender 🎥
+## 🧠 Skills
 
-Fun Facts about me:
-🐱 I have 3 cats
-👧 I’m a middle child
-🏋️‍♀️ My hobbies: Building things 🏗️, solving problems 🧩, home gym 💪, drawing ✏️, and gaming 🎮
+* Data Analysis (Excel, Python, SQL, Synapse, Oracle, Power BI)
+* Basic Networking Concepts
+* Linux Fundamentals
+* Wireshark (Network Traffic Analysis)
+* Digital forensics software ( Autopsy, OSforensics, FTK Imager)
 
-<!---
-Nattisanch/Nattisanch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📊 Projects
+
+* Security Log Analysis (detecting suspicious activity)
+* Network Traffic Analysis using Wireshark
+* Dashboard to analyze customer data and identify key pain points and trends in customer interactions
+
+## 🎯 Goals
+
+* Become a Security/Data Analyst
+* Earn the CompTIA Security+ certification
+* Earn the CompTIA Data+ certification
+
+## 📫 Connect With Me
+
+* Email: [My Email](mailto:nataliesanchez42204@Gmail.com)
