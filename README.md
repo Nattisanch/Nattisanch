@@ -21,7 +21,6 @@ I'm a data analyst with a growing focus on cybersecurity analytics. I enjoy work
 
 * Security Log Analysis (detecting suspicious activity)
 * Network Traffic Analysis using Wireshark
-* Dashboard to analyze customer data and identify key pain points and trends in customer interactions
 
 ## 🎯 Goals
 
