@@ -7,7 +7,7 @@ I'm a data analyst with a growing focus on cybersecurity analytics. I enjoy work
 * Analyzing security logs and network data
 * Learning cybersecurity fundamentals and tools
 * Building hands on labs and projects
-* Gaining credentials needed during data analytics apprentice via Coursera & potentially Comptia
+* Gaining credentials needed during data analytics apprenticeship via Coursera & potentially Comptia
 
 ## 🧠 Skills
 
